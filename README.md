@@ -1,4 +1,61 @@
-# React + TypeScript + Vite
+# Drag-and-Drop To-Do List with TypeScript, Tailwind CSS, and DND
+
+This project is a simple to-do list application built using TypeScript, Tailwind CSS for styling, and a drag-and-drop (DND) package for enabling drag-and-drop functionality.
+
+## Features
+
+- Create tasks by typing in the input field and pressing enter.
+- Drag and drop tasks to reorder them.
+- Mark tasks as completed or delete them.
+
+## Technologies Used
+
+- TypeScript
+- Tailwind CSS
+- [DND Package] - (Link to the DND package you used)
+
+## Getting Started
+
+These instructions will help you set up the project on your local machine.
+
+### Prerequisites
+
+- Node.js installed
+- Package manager (npm or yarn) installed
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/drag-drop-todo.git
+cd drag-drop-todo
+Install dependencies:
+bash
+Copy code
+npm install
+Running the Application
+Run the development server:
+
+bash
+Copy code
+npm run dev
+The application will be accessible at http://localhost:3000.
+
+Building for Production
+To build the application for production:
+
+bash
+Copy code
+npm run build
+Running Tests
+Add information about any test suites or commands for running tests.
+
+Usage
+Explain how to use the application, including creating tasks, dragging and dropping tasks, marking tasks as completed, etc.
+
+Contributing
+If you'd like to contribute to this project, please follow the standard GitHub fork/pull request workflow.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
