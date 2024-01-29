@@ -22,6 +22,12 @@ These instructions will help you set up the project on your local machine.
 
 - Node.js installed
 - Package manager (npm or yarn) installed
+ DEPLOYMENT
+
+
+https://dragitpro-aoxf.vercel.app/
+
+
 
 ### Installation
 
