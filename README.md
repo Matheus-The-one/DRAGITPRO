@@ -1,3 +1,5 @@
+
+https://dragitpro-aoxf.vercel.app/
 # Drag-and-Drop To-Do List with TypeScript, Tailwind CSS, and DND
 
 This project is a simple to-do list application built using TypeScript, Tailwind CSS for styling, and a drag-and-drop (DND) package for enabling drag-and-drop functionality.
@@ -22,10 +24,10 @@ These instructions will help you set up the project on your local machine.
 
 - Node.js installed
 - Package manager (npm or yarn) installed
- DEPLOYMENT
 
 
-https://dragitpro-aoxf.vercel.app/
+
+
 
 
 
