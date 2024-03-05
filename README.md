@@ -12,9 +12,7 @@ This project is a simple to-do list application built using TypeScript, Tailwind
 
 ## Technologies Used
 
-- TypeScript
-- Tailwind CSS
-- - [DND Package] - (Link to the DND package you used)
+
 
 
 ## Getting Started
