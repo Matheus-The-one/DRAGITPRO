@@ -16,7 +16,6 @@ This project is a simple to-do list application built using TypeScript, Tailwind
 - - [DND Package] - (Link to the DND package you used)
 
 
-
 ### Prerequisites
 
 - Node.js installed
