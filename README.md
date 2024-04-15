@@ -17,7 +17,7 @@ This project is a simple to-do list application built using TypeScript, Tailwind
 
 ## Getting Started
 
-These instructions will help you set up the project on your local machine.
+These
 
 ### Prerequisites
 
